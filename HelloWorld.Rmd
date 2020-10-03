@@ -1,8 +1,0 @@
----
-title: "HelloWorld"
-author: "Carlos Aguilar"
-date: "October 3, 2020"
-output: html_document
----
-
-## This is a markdown file
